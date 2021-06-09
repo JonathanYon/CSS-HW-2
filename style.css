@@ -1,4 +1,4 @@
-nav {
+/* nav {
     background-color: #007BFF;
 }
 
@@ -53,6 +53,13 @@ nav {
     align-items: center;
     justify-content: center;
     text-align: center;
+} */
+
+.first {
+  height: 400px;
 }
-
-
+.bigger {
+  border: solid 2px black;
+  border-radius: 40px;
+  overflow: hidden;
+}
